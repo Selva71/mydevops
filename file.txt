@@ -12,5 +12,9 @@ Sir Goofington knew this was only the beginning. And so, with one bare foot and 
 .
 The End
 
+<<<<<<< HEAD
 Changes for pulling and pushing...
 master
+=======
+Changes for pulling and pushing!!!...
+>>>>>>> mybranch
